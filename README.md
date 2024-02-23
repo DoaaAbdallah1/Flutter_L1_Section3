@@ -2,8 +2,7 @@
 
 A new Flutter project.
 
-<img src="https://github.com/DoaaAbdallah1/Flutter_L1_Section3/assets/122896725/3a37a29f-09bc-4544-84ac-1175c713a6bf" width=300 height=600>
-
+<img src="https://github.com/DoaaAbdallah1/Flutter_L1_Section3/assets/122896725/f00b6131-f82c-4784-8c10-7d1682e837f3" width=300 height=600>
 
 ## Getting Started
 
